@@ -1,3 +1,10 @@
+---
+menu:
+  footer:
+    name: Terms of Use
+    # identifier: terms
+    weight: 110
+---
 Terms of Use
 ============
 ## Terms
